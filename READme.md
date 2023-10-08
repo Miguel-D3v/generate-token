@@ -3,7 +3,7 @@
 ### Example of use 
 
 ```javascript
-import generateTK from "https://deno.land/x/generatetk/mod.ts"
+import generateTK from "https://deno.land/x/generatetk@v2/mod.ts"
 
  const token = generateTK();
 
