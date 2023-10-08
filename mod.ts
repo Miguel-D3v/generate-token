@@ -2,7 +2,7 @@ const letters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P"
 const numbers = [1,2,3,4,5,6,7,8,9]
 
 
-export function generateTk():string{
+export function generateTK():string{
 
     const tk: Array<string|number>=[];
 
