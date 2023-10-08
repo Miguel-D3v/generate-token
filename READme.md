@@ -1,11 +1,11 @@
-## Modulo gerador de token para Denojs
+## Token generator module for Denojs
 
-### Exemplo de uso 
+### Example of use 
 
 ```javascript
-import generateTK from "https://deno.land/x/generate-tk/mod.ts"
+import generateTK from "https://deno.land/x/generatetk/mod.ts"
 
  const token = generateTK();
 
- console.log(token) // Exemplo de saida C9Y6G3
+ console.log(token) // Output example C9Y6G3
 ```
